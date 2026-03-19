@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/hdanhhub/refs/heads/main/fixlagbyhdanh.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nguyenkhachuong759-netizen/hud/refs/heads/main/hakk"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
 
 -- ==========================================
@@ -62,7 +62,7 @@ local plr = Player
 local Root = HumanoidRootPart
 
 -- ==========================================
--- LOAD UI LIBRARY (HDanh Hub)
+-- LOAD UI LIBRARY (Halae Hub)
 -- ==========================================
 Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/UI/refs/heads/main/ui_BananaHub_final.lua"))()
 
